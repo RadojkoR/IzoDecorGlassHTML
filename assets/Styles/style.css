@@ -11844,5 +11844,65 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  background-color: #d8d8d8 !important;
+}
+
+.logoImg {
+  width: 75%;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+@media (max-width: 992px) {
+  .logoImg {
+    width: 40rem;
+  }
+  h1 {
+    font-size: 3.5rem;
+  }
+}
+@media (max-width: 768px) {
+  .logoImg {
+    width: 35rem;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 768px) {
+  .logoImg {
+    width: 30rem;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+}
+@media (max-width: 490px) {
+  .logoImg {
+    width: 22rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 370px) {
+  .logoImg {
+    width: 17rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+}
+@media (max-width: 370px) {
+  .logoImg {
+    width: 17rem;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+}
 
 /*# sourceMappingURL=style.css.map */
