@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+/dist
+/build
+
+# NPM logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# SCSS compiled CSS output (ako koristiš SCSS)
+Styles/style.css
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Coverage folder (ako koristiš testiranje sa coverage)
+coverage/
+
+# Test folders (ako koristiš testiranje)
+test/
+tests/
